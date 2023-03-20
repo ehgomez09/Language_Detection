@@ -1,6 +1,7 @@
 import typing
 import math
 import nltk
+import collections
 from nltk.corpus import udhr 
 nltk.download('udhr') # udhr = Universal Declaration of Human Rights
 
